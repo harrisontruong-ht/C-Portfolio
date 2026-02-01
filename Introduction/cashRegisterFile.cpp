@@ -3,9 +3,6 @@
 //=============================================================================
 //Programmer: Harrison Truong
 //Date: 10/04/25
-//Class: CSCI 123 ("Introduction to Programming using C++")
-//Time: Online
-//Instructor: Dr. Rodriguez
 //Project: Cash Register File
 //Description:
 //         This program will read item prices from a file,
