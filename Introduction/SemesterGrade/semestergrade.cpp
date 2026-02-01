@@ -3,9 +3,6 @@
 // =============================================================
 // Programmer: Harrison Truong
 // Date: 11/05/25
-// Class: CSCI 123 ("Introduction to Programming using C++")
-// Time: Online
-// Instructor: Dr. Rodriguez
 // Project: Semester Grade
 // Description:
 //      This program reads student information from a file and
