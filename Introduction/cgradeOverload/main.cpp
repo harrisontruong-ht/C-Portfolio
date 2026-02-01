@@ -3,9 +3,6 @@
 // ============================================================================
 // Programmer: Harrison Truong
 // Date: 11/16/25
-// Class: CSCI 123 ("Intro to Programming Using C++")
-// Time: Online
-// Instructor: Dr. Rodriguez
 // Project: Classes
 //
 // Description:
