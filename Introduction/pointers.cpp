@@ -3,9 +3,6 @@
 // ============================================================================
 // Programmer: Harrison Truong
 // Date: 11/16/2025
-// Class: CSCI 123 ("Intro to Programming Using C++")
-// Time: Online
-// Instructor: Dr. Rodriguez
 // Project: Pointer Practice (Arrays & Functions)
 //
 // Description:
