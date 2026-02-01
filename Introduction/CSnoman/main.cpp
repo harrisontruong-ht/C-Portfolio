@@ -1,11 +1,8 @@
 // =============================================================================
 // File: main.cpp
 // =============================================================================
-// Programmer: ???
-// Date: ???
-// Class: CSCI 123 ("Intro to Programming Using C++")
-// Time: ???
-// Instructor: Dr. Rodriguez
+// Programmer: Harrison Truong
+// Date: 12/1/25
 // Project: Snowman
 //
 // Description:
