@@ -3,9 +3,6 @@
 //=============================================================================
 //Programmer: Harrison Truong
 //Date: 09/09/25
-//Class: CSCI 123 ("Introduction to Programming using C++")
-//Time: Online
-//Instructor: Dr. Rodriguez
 //Project: Cash Register Function
 //Description:
 //
