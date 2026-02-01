@@ -3,9 +3,6 @@
 //=============================================================================
 // Programmer: Harrison Truong
 // Date: 10/13/25
-// Class: CSCI 123 ("Introduction to Programming using C++")
-// Time: Online
-// Instructor: Dr. Rodriguez
 // Project: File Analysis
 // Description:
 //         This program will read a text file and analyze its contents.
