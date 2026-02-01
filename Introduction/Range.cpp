@@ -3,9 +3,6 @@
 //=============================================================================
 //Programmer: Harrison Truong
 //Date: 09/17/25
-//Class: CSCI 123 ("Introduction to Programming using C++")
-//Time: Online
-//Instructor: Dr. Rodriguez
 //Project: Range
 //Description:
 //             This program will display even numbers from 1 to 25
