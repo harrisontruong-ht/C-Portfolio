@@ -3,9 +3,6 @@
 // =============================================================
 // Programmer: Harrison Truong
 // Date: 11/23/25
-// Class: CSCI 123 ("Introduction to Programming using C++")
-// Time: Online
-// Instructor: Dr. Rodriguez
 // Project: CPizza Demonstration
 // Description:
 //      This program demonstrates the CPizza class by creating
