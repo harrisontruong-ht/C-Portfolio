@@ -4,7 +4,6 @@
 // Programmer: Harrison Truong
 // Date: 11/16/25
 // Project: Classes
-//
 // Description:
 //      The program calculates the grade of students (based on quizes, midterm,
 // and final exam).  It uses classes to allocate the space for each student,
