@@ -3,9 +3,6 @@
 //=============================================================================
 //Programmer: Harrison Truong
 //Date: 09/28/25
-//Class: CSCI 123 ("Introduction to Programming using C++")
-//Time: Online
-//Instructor: Dr. Rodriguez
 //Project: Calc
 //Description:
 //       This program will perform basic arithmetic operations
