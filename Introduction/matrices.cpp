@@ -3,9 +3,6 @@
 //=============================================================================
 // Programmer  : Harrison Truong
 // Date        : 10/17/25
-// Class       : CSCI 123 ("Introduction to Programming using C++")
-// Time        : Online
-// Instructor  : Dr. Rodriguez
 // Project     : Matrices
 // Description :
 //         This program will prompt the user to enter two 3x3 matrices.
